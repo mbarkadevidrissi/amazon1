@@ -1,0 +1,32 @@
+{
+  "AdsManager": {
+    "ShowAds":true,
+    "AdmobClick":2,
+    "BannerAds":"min",
+    "RewardAds":"min",
+    "InterstitialAds":"admob",
+    "AdmobAppID":"ca-app-pub-3940256099942544~3347511713",
+    "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "AdmobBanner":"xxxxxxxxxxx",
+    "AdmobNative":"xxxxxxxxxxx",
+    "AdmobReward":"xxxxxxxxxxx",
+    "MintegralAppID":"144002",
+    "MintegralAppKey":"7c22942b749fe6a6e361b675e96b3ee9",
+    "MintegralNativeUnitID":"xxxxxxx",
+    "MintegralNativePlacementID":"xxxxxxx",
+    "MintegralInterstitialUnitID":"462374",
+    "MintegralInterstitialPlacementID":"290653",
+    "MintegralBannerUnitID":"xxxxxxx",
+    "MintegralBannerPlacementID":"xxxxxxx",
+    "MintegralRewardUnitID":"xxxxxxx",
+    "MintegralRewardPlacementID":"xxxxxxx"
+    },
+  "AppControl":{
+    "ShowUpdate":false,
+    "UpdateLink":"",
+    "UpdateVersion":6,
+    "ShowMockupData":false,
+    "UpdateFromAmazon":true,
+    "ShowCategories":false
+  }
+}
